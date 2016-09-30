@@ -1,0 +1,5 @@
+package main;
+
+public enum verdict {
+	COMPILE_ERROR, COMPILE_SUCCESS, RUN_PASSED, WRONG_ANSWER, RUN_ERROR, TLE, RUN_SUCCESS, ACCEPTED;
+}
