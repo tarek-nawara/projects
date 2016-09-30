@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true">  
+  <object id="1" language="java" name="eg.edu.alexu.csd.oop.draw.XmlReader" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/XmlReader.java" binary="false" label="xmlReader" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="eg.edu.alexu.csd.oop.draw.Shape" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Shape.java" binary="false" label="shape" type="interface" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="3">      
+      <position height="21" width="118" x="249" y="678"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="118" x="249" y="719"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="118" x="249" y="865"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="21" width="118" x="249" y="906"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="21" width="118" x="249" y="944"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="118" x="127" y="1474"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="21" width="118" x="127" y="1521"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="21" width="118" x="127" y="1562"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="21" width="118" x="127" y="1794"/>    
+    </execution>  
+  </object>  
+  <object id="12" language="java" name="eg.edu.alexu.csd.oop.draw.ReadXML" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/ReadXML.java" binary="false" label="readXML" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="118" x="249" y="2070"/>    
+    </execution>  
+  </object>  
+  <object id="14" language="java" name="eg.edu.alexu.csd.oop.draw.PaintGui" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/PaintGui.java" binary="false" label="paintGui" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="15">      
+      <position height="84" width="118" x="737" y="191"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="21" width="118" x="737" y="284"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="21" width="118" x="737" y="323"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="21" width="118" x="737" y="363"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="21" width="118" x="737" y="401"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="118" x="737" y="443"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="21" width="118" x="737" y="478"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="118" x="737" y="512"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="21" width="7" x="671" y="233"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="118" x="615" y="555"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="21" width="118" x="615" y="625"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="118" x="615" y="745"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="21" width="118" x="615" y="787"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="21" width="118" x="615" y="826"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="21" width="118" x="371" y="1007"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="21" width="118" x="371" y="1049"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="21" width="118" x="371" y="1136"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="21" width="118" x="371" y="1197"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="21" width="118" x="371" y="1270"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="21" width="118" x="371" y="1391"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="21" width="118" x="371" y="1662"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="21" width="118" x="371" y="1709"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="21" width="118" x="371" y="1991"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="21" width="118" x="371" y="2120"/>    
+    </execution>    
+    <execution id="40">      
+      <position height="21" width="118" x="371" y="2170"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="eg.edu.alexu.csd.oop.draw.Originator" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Originator.java" binary="false" label="originator" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="42">      
+      <position height="21" width="118" x="493" y="1864"/>    
+    </execution>  
+  </object>  
+  <object id="43" language="java" name="eg.edu.alexu.csd.oop.draw.MyLinkedList" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/MyLinkedList.java" binary="false" label="myLinkedList" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="44" language="java" name="eg.edu.alexu.csd.oop.draw.Memento" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Memento.java" binary="false" label="memento" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="45" language="java" name="eg.edu.alexu.csd.oop.draw.Main" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Main.java" binary="false" label="main" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="46">      
+      <position height="481" width="118" x="1713" y="137"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="eg.edu.alexu.csd.oop.draw.JSONWriter" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/JSONWriter.java" binary="false" label="jsonWriter" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="50">      
+      <position height="21" width="118" x="1225" y="2130"/>    
+    </execution>  
+  </object>  
+  <object id="51" language="java" name="eg.edu.alexu.csd.oop.draw.JSONScanner" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/JSONScanner.java" binary="false" label="jsonScanner" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="52">      
+      <position height="63" width="118" x="1347" y="2090"/>    
+    </execution>  
+  </object>  
+  <object id="55" language="java" name="eg.edu.alexu.csd.oop.draw.JSONReader" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/JSONReader.java" binary="false" label="jsonReader" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="54">      
+      <position height="21" width="118" x="1469" y="2111"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="eg.edu.alexu.csd.oop.draw.JSONObject" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/JSONObject.java" binary="false" label="jsonObject" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="57" language="java" name="eg.edu.alexu.csd.oop.draw.GUI.DrawShapes" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/GUI.java" binary="false" label="drawShapes" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="58" language="java" name="eg.edu.alexu.csd.oop.draw.FileBuilder" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/FileBuilder.java" binary="false" label="fileBuilder" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="59">      
+      <position height="21" width="118" x="1835" y="2042"/>    
+    </execution>  
+  </object>  
+  <object id="60" language="java" name="eg.edu.alexu.csd.oop.draw.DrawingEngine" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/DrawingEngine.java" binary="false" label="drawingEngine" 
+    type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="61">      
+      <position height="21" width="118" x="2079" y="977"/>    
+    </execution>    
+    <execution id="62">      
+      <position height="21" width="118" x="1957" y="1230"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="21" width="118" x="1957" y="1306"/>    
+    </execution>    
+    <execution id="64">      
+      <position height="21" width="118" x="1957" y="1345"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="21" width="118" x="1957" y="1427"/>    
+    </execution>    
+    <execution id="66">      
+      <position height="21" width="118" x="1957" y="1622"/>    
+    </execution>    
+    <execution id="67">      
+      <position height="21" width="118" x="1957" y="1742"/>    
+    </execution>    
+    <execution id="68">      
+      <position height="150" width="118" x="1957" y="1821"/>    
+    </execution>    
+    <execution id="73">      
+      <position height="153" width="118" x="1957" y="2021"/>    
+    </execution>    
+    <execution id="78">      
+      <position height="21" width="118" x="1957" y="2083"/>    
+    </execution>    
+    <execution id="79">      
+      <position height="21" width="118" x="1957" y="2201"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="63" width="118" x="1713" y="2236"/>    
+    </execution>  
+  </object>  
+  <object id="83" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.PluginButtonReader" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="pluginButtonReader" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>  
+  </object>  
+  <object id="84" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.LoadButtonListener" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="loadButtonListener" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="85">      
+      <position height="181" width="135" x="2219" y="2062"/>    
+    </execution>  
+  </object>  
+  <object id="90" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.SaveButtonListener" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="saveButtonListener" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="91">      
+      <position height="225" width="135" x="2358" y="1970"/>    
+    </execution>  
+  </object>  
+  <object id="94" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.UpdateButtonListener" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="updateButtonListener" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="95">      
+      <position height="219" width="147" x="2497" y="1773"/>    
+    </execution>  
+  </object>  
+  <object id="98" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.RemoveButtonListenser" 
+    project="VectorDraw2" file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" 
+    label="removeButtonListenser" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="99">      
+      <position height="183" width="160" x="2648" y="1601"/>    
+    </execution>  
+  </object>  
+  <object id="104" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.DrwanShapesComboBoxHandler" 
+    project="VectorDraw2" file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" 
+    label="drwanShapesComboBoxHandler" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="105">      
+      <position height="234" width="209" x="2812" y="1370"/>    
+    </execution>  
+  </object>  
+  <object id="111" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.ButtonHandler" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="buttonHandler" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="112">      
+      <position height="211" width="118" x="3025" y="1176"/>    
+    </execution>  
+  </object>  
+  <object id="118" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.MouseHandler" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="mouseHandler" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="119">      
+      <position height="63" width="118" x="3147" y="1115"/>    
+    </execution>  
+  </object>  
+  <object id="121" language="java" name="eg.edu.alexu.csd.oop.draw.Controller.ComboBoxHandler" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="comboBoxHandler" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="122">      
+      <position height="508" width="129" x="4001" y="604"/>    
+    </execution>  
+  </object>  
+  <object id="126" language="java" name="eg.edu.alexu.csd.oop.draw.Controller" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/Controller.java" binary="false" label="controller" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="48">      
+      <position height="439" width="118" x="4256" y="158"/>    
+    </execution>    
+    <execution id="125">      
+      <position height="456" width="118" x="4134" y="635"/>    
+    </execution>  
+  </object>  
+  <object id="147" language="java" name="eg.edu.alexu.csd.oop.draw.ClassFinder" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/ClassFinder.java" binary="false" label="classFinder" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="82">      
+      <position height="21" width="118" x="3280" y="2257"/>    
+    </execution>  
+  </object>  
+  <object id="148" language="java" name="eg.edu.alexu.csd.oop.draw.CareTaker" project="VectorDraw2" 
+    file="/VectorDraw2/src/eg/edu/alexu/csd/oop/draw/CareTaker.java" binary="false" label="careTaker" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="460" y="0"/>    
+    <execution id="70">      
+      <position height="64" width="118" x="3646" y="1842"/>    
+    </execution>    
+    <execution id="72">      
+      <position height="21" width="118" x="3646" y="1929"/>    
+    </execution>  
+  </object>  
+  <message id="16" operation="initialize():void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="47" operation="start():void" asynchronous="false">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="53" operation="loadAllObjects():java.util.ArrayList&lt;JSONObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="69" operation="deleteAllAfter(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="70"/>  
+  </message>  
+  <message id="71" operation="addMemento(eg.edu.alexu.csd.oop.draw.Memento):void" asynchronous="false">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="72"/>  
+  </message>  
+  <message id="74" operation="xmlSave(java.lang.String,eg.edu.alexu.csd.oop.draw.Shape[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="59"/>  
+  </message>  
+  <message id="75" operation="xmlLoad(java.lang.String):eg.edu.alexu.csd.oop.draw.Shape[]" asynchronous="false">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="76" operation="loadJSON(java.lang.String):eg.edu.alexu.csd.oop.draw.Shape[]" asynchronous="false">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="77" operation="SaveJSON(java.lang.String,eg.edu.alexu.csd.oop.draw.Shape[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="81" operation="getClasses():java.util.Set&lt;Class&lt;? extends Shape&gt;&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="86" operation="load(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="78"/>  
+  </message>  
+  <message id="87" operation="getGraphics():java.awt.Graphics" asynchronous="false">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="88" operation="addNameToComboBox(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="89" operation="refresh(java.awt.Graphics):void" asynchronous="false">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="92" operation="getFilePath():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="93" operation="save(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="73"/>  
+  </message>  
+  <message id="96" operation="setProperties(java.util.Map&lt;java.lang.String,java.lang.Double&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="97" operation="updateShape(eg.edu.alexu.csd.oop.draw.Shape,eg.edu.alexu.csd.oop.draw.Shape):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="100" operation="removeShape(eg.edu.alexu.csd.oop.draw.Shape):void" asynchronous="false">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="66"/>  
+  </message>  
+  <message id="101" operation="addNameToComboBox(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="102" operation="getGraphicsOfSelectionArea():java.awt.Graphics" asynchronous="false">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="103" operation="refresh(java.awt.Graphics):void" asynchronous="false">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="67"/>  
+  </message>  
+  <message id="106" operation="getGraphicsOfSelectionArea():java.awt.Graphics" asynchronous="false">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="107" operation="getShapes():eg.edu.alexu.csd.oop.draw.Shape[]" asynchronous="false">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="108" operation="clone():java.lang.Object" asynchronous="false">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="109" operation="setPosition(java.awt.Point):void" asynchronous="false">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="110" operation="draw(java.awt.Graphics):void" asynchronous="false">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="113" operation="addNameToComboBox(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="114" operation="refresh(java.awt.Graphics):void" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="62"/>  
+  </message>  
+  <message id="115" operation="getGraphicsOfSelectionArea():java.awt.Graphics" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="116" operation="undo():void" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="63"/>  
+  </message>  
+  <message id="117" operation="redo():void" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="64"/>  
+  </message>  
+  <message id="120" operation="displayTheClickedPosition(int,int):void" asynchronous="false">    
+    <end type="SOURCE" refId="119"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="123" operation="getComboBoxCurrentIndex():int" asynchronous="false">    
+    <end type="SOURCE" refId="122"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="124" operation="getTheShapeProperties():void" asynchronous="false">    
+    <end type="SOURCE" refId="122"/>    
+    <end type="TARGET" refId="125"/>  
+  </message>  
+  <message id="127" operation="getGuiInstance():eg.edu.alexu.csd.oop.draw.PaintGui" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="128" operation="setDrawnShapesComboBoxListener(java.awt.event.ItemListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="129" operation="setLoadButtonListener(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="130" operation="setUndoRedoListeners(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="131" operation="setUpdateButtonListener(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="132" operation="setDrawnShapesComboBoxListener(java.awt.event.ItemListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="133" 
+    operation="setPaintAreaMouseListener(java.awt.event.MouseListener,java.awt.event.MouseMotionListener):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="134" operation="setSaveButtonListener(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="135" operation="setAddNewShapesActionListener(java.awt.event.ActionListener):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="136" operation="setProperties(java.util.Map&lt;java.lang.String,java.lang.Double&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="3"/>  
+  </message>  
+  <message id="137" operation="setPosition(java.awt.Point):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="138" operation="getFillColor():java.awt.Color" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="139" operation="getBorderColor():java.awt.Color" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="140" operation="getGraphics():java.awt.Graphics" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="141" operation="setFillColor(java.awt.Color):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="142" operation="setColor(java.awt.Color):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="143" operation="draw(java.awt.Graphics):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="144" operation="addShape(eg.edu.alexu.csd.oop.draw.Shape):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="61"/>  
+  </message>  
+  <message id="145" operation="addNameToComboBox(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="146" operation="clearComboBox():void" asynchronous="false">    
+    <end type="SOURCE" refId="125"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="149" 
+    operation="storeInMemento(java.lang.String,eg.edu.alexu.csd.oop.draw.Shape,eg.edu.alexu.csd.oop.draw.Shape,int,boolean):eg.edu.alexu.csd.oop.draw.Memento" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="42"/>  
+  </message>
+</sequence-diagram>

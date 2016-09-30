@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<canvas>
+    <Circle Raduis="0.0" class="eg.edu.alexu.csd.oop.draw.Circle" color="-16777216" fillColor="-1" x="0" y="0"/>
+    <Rectangle Height="70.0" Width="50.0" class="eg.edu.alexu.csd.oop.draw.Rectangle" color="-16776961" fillColor="-1" x="100" y="100"/>
+    <Square Length="0.0" class="eg.edu.alexu.csd.oop.draw.Square" color="-16777216" fillColor="-1" x="0" y="0"/>
+    <Ellipse Height="0.0" Width="0.0" class="eg.edu.alexu.csd.oop.draw.Ellipse" color="-16777216" fillColor="-1" x="0" y="0"/>
+</canvas>
